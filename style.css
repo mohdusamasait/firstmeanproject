@@ -1,0 +1,21 @@
+
+		tbody tr{
+			text-align: left;
+		}
+		tbody td{
+			padding: 10px;
+		}
+		table{
+			border-collapse: collapse;
+		}
+		tr{
+			border-bottom: 1pt solid #b2b2b2;
+			font-family: 'Ubuntu', sans-serif;
+		}
+		.table-container{
+			width: 700px; margin: 0 auto; text-align: center; background: linear-gradient(90deg, rgb(50 125 108) 0%, rgb(94 94 167) 35%, rgb(0 255 250) 100%);
+		}
+		td{
+			font-weight: bold;
+		}
+	
